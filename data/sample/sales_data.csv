@@ -1,0 +1,12 @@
+# Sample sales dataset for portfolio demo
+customer_id,product,region,sales,month
+101,Phone,North,2300,Jan
+102,Laptop,South,4200,Feb
+103,Tablet,West,1800,Mar
+104,Phone,East,2100,Apr
+105,Laptop,North,4500,May
+106,Tablet,South,2000,Jun
+107,Phone,West,2600,Jul
+108,Laptop,East,5000,Aug
+109,Tablet,North,2200,Sep
+110,Phone,South,2400,Oct
